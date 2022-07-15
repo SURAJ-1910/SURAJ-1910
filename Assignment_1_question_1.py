@@ -1,0 +1,1 @@
+Quetion_1 - Use KNearestNeighbourRegressor to Predict Price of House collab link url  : https://colab.research.google.com/gist/SURAJ-1910/ae721168f7cb25f55d1d77c426bd41e9/assignment_1-_q1_ml.ipynb
